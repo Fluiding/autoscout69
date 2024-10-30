@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name Informex v6
-// @namespace http://tampermonkey.net/
-// @version 0.1
-// @description try to take over the world!
-// @author You
-// @match my.informex-vehicle-online.be/*
-// @icon https://www.solera.com/wp-content/uploads/2022/01/solera-logo-icon.svg
-// @grant none
-// @run-at document-end
-// ==/UserScript==
-
 const normes = {
 EURO1: 1, EURO2: 2, EURO3: 3,
 EURO4: 4, EURO5: 5, EURO5A: 5,
